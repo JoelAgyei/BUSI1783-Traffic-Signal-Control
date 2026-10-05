@@ -1,0 +1,3 @@
+city,exact_duplicate_rows,duplicate_observation_keys,invalid_dates,year_date_mismatches,missing_coordinates,negative_vehicle_counts,vehicle_total_mismatches,duplicate_location_ids,raw_rows_without_location
+Birmingham,0,0,0,0,0,0,0,0,48
+Manchester,0,0,0,0,0,0,0,0,0

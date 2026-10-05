@@ -19,6 +19,9 @@ This study investigates whether reinforcement learning can improve traffic signa
 - SUMO
 - Jupyter Notebook
 
+## Opening notebooks in VS Code
+The workspace recommends the **Jupyter** and **Python** extensions and prefers the Jupyter Notebook editor for `.ipynb` files. In a Developer / Extension Development Host window, make sure Jupyter is enabled in that window too. Then run **Developer: Reload Window**. If a notebook is still open as raw JSON, close that tab, reopen the repository's `.ipynb` file, and use **Reopen Editor With...** → **Jupyter Notebook**. Opening it in the Text Editor shows the notebook's JSON rather than its rendered cells and outputs.
+
 ## Repository Structure
 - data
 - notebooks
