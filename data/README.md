@@ -12,9 +12,9 @@ This folder contains raw traffic counts and count point information downloaded f
 - Birmingham: https://roadtraffic.dft.gov.uk/local-authorities/E08000025
 - Manchester: https://roadtraffic.dft.gov.uk/local-authorities/E08000003
 
-Download date: [ENTER DOWNLOAD DATE]
+Download date: 5 October 2026
 
-Years covered: To be confirmed by inspecting the downloaded CSV files. The final analysis period will be documented after data screening.
+Years covered: Both raw-count datasets contain records from 2000 to 2025 inclusive. Coverage varies by count point. The final analysis period will be selected after checking coverage at the chosen road networks.
 
 ### Purpose
 Raw traffic counts will inform traffic demand and vehicle composition. Count point information will help locate suitable roads and match traffic observations to the selected road networks.
