@@ -1,0 +1,591 @@
+"count_point_id","region_id","region_name","local_authority_id","local_authority_name","road_name","road_type","start_junction_road_name","end_junction_road_name","easting","northing","latitude","longitude","link_length_km","link_length_miles"
+6358,10,"West Midlands",141,"Birmingham","A34","Major","A4400/A38","A4540",407240,288000,52.48988220,-1.89479785,0.8,0.5
+6359,10,"West Midlands",141,"Birmingham","A34","Major","A4040","B4217",410520,282000,52.43588968,-1.84667816,2.1,1.3
+6390,10,"West Midlands",141,"Birmingham","A38","Major","B4148","A452",413000,291000,52.51674616,-1.80984973,1.6,1
+6391,10,"West Midlands",141,"Birmingham","A4400","Major","A41 The Priory Queensway","A38 Corporation St",407466,287327,52.48382891,-1.89148437,0.6,0.4
+6392,10,"West Midlands",141,"Birmingham","A38","Major","A4029","B4217",406100,284000,52.45393596,-1.91165830,0.5,0.3
+6448,10,"West Midlands",141,"Birmingham","A41","Major","A4040 Handsworth","LA Boundary",403000,290170,52.50942984,-1.95722210,0.5,0.3
+6449,10,"West Midlands",141,"Birmingham","A41","Major","LA Boundary","A4040 Acocks Green",412000,283240,52.44700725,-1.82486443,1.6,1
+7132,10,"West Midlands",141,"Birmingham","A435","Major","A4040","B4217",407400,282000,52.43594003,-1.89257143,2.1,1.3
+7142,10,"West Midlands",141,"Birmingham","A441","Major","A4040","A4040",405200,280000,52.41798495,-1.92496204,0.9,0.6
+7167,10,"West Midlands",141,"Birmingham","A452","Major","A5127","A453",410000,294200,52.54557679,-1.85396397,2.5,1.6
+7172,10,"West Midlands",141,"Birmingham","A453","Major","A452","A5127",409993,294416,52.54751872,-1.85406063,2.1,1.3
+7179,10,"West Midlands",141,"Birmingham","A456","Major","A4040","A4540",405000,286000,52.47192705,-1.92781599,3.4,2.1
+7627,10,"West Midlands",141,"Birmingham","A4040","Major","A4040 Rookery Rd","A34",405000,290600,52.51328115,-1.92774858,2.7,1.7
+7628,10,"West Midlands",141,"Birmingham","A4040","Major","A47","B4128",413065,287132,52.48197168,-1.80904416,3.9,2.4
+7676,10,"West Midlands",141,"Birmingham","A4540","Major","A38(M)","B4133",407775,288123,52.49098066,-1.88691602,0.5,0.3
+7677,10,"West Midlands",141,"Birmingham","A4540","Major","A456","B4126",405300,286400,52.47552027,-1.92339342,0.9,0.6
+7926,10,"West Midlands",141,"Birmingham","A4040","Major","A4123","A4030/A456",402500,285000,52.46295394,-1.96462603,1.5,0.9
+7927,10,"West Midlands",141,"Birmingham","A4540","Major","A435","A41",408500,284630,52.45956793,-1.87632570,1.2,0.7
+7928,10,"West Midlands",141,"Birmingham","A4400","Major","A41","A38",407150,287580,52.48610757,-1.89613217,0.8,0.5
+8010,10,"West Midlands",141,"Birmingham","A4040","Major","A435","A34",410000,281200,52.42870724,-1.85435049,4.1,2.5
+8347,10,"West Midlands",141,"Birmingham","A4040","Major","A41","A4040 Oxhill Rd",404133,289977,52.50768748,-1.94053116,1.1,0.7
+16025,10,"West Midlands",141,"Birmingham","M6","Major","6","LA Boundary",407000,292500,52.53034049,-1.89823888,5,3.1
+16331,10,"West Midlands",141,"Birmingham","A41","Major","A4540","A45 Triangle",408330,285800,52.47008881,-1.87879911,0.5,0.3
+16365,10,"West Midlands",141,"Birmingham","A38","Major","A38(M) mid-junction","A4040 Wheelwright Road",410100,289990,52.50772718,-1.85261746,1.4,0.9
+16366,10,"West Midlands",141,"Birmingham","A4400","Major","A38","A441",406940,286380,52.47532226,-1.89924916,0.2,0.1
+16367,10,"West Midlands",141,"Birmingham","A38","Major","B4121","A4040",402300,280000,52.41800473,-1.96760197,3.7,2.3
+16423,10,"West Midlands",141,"Birmingham","A41","Major","A4540 Triangle","A4040S",405000,289340,52.50195369,-1.92776694,2.3,1.4
+16487,10,"West Midlands",141,"Birmingham","A47","Major","A4400","A4540",407700,287300,52.48358295,-1.88803930,0.8,0.5
+17128,10,"West Midlands",141,"Birmingham","A452","Major","A38","B4148",413400,291500,52.52123150,-1.80393479,0.6,0.4
+17132,10,"West Midlands",141,"Birmingham","A453","Major","A34 spur","M6",407100,292000,52.52584419,-1.89677548,1.2,0.7
+17133,10,"West Midlands",141,"Birmingham","A453","Major","A5127","B4148 Whitehouse Common",412916,297563,52.57574930,-1.81083490,1.5,0.9
+17139,10,"West Midlands",141,"Birmingham","A456","Major","A458","A458",400000,285040,52.46331881,-2.00142200,1,0.6
+17143,10,"West Midlands",141,"Birmingham","A457","Major","A4540","A4400",406000,287150,52.48225561,-1.91307453,1.1,0.7
+17593,10,"West Midlands",141,"Birmingham","A4040","Major","A41","A45",412000,284300,52.45653655,-1.82482690,1.7,1.1
+17612,10,"West Midlands",141,"Birmingham","A4123","Major","A456","A4040",401170,285000,52.46295819,-1.98420142,2.2,1.4
+17644,10,"West Midlands",141,"Birmingham","A4540","Major","A4540 link to Icknield St","A34",407000,288300,52.49258230,-1.89832615,1,0.6
+17682,10,"West Midlands",141,"Birmingham","A5127","Major","A452","A453",411874,294882,52.55167050,-1.82630472,2.4,1.5
+17839,10,"West Midlands",141,"Birmingham","A441","Major","A4540","A441 Pershore St",407220,285800,52.47010446,-1.89513917,0.7,0.4
+17996,10,"West Midlands",141,"Birmingham","A41","Major","A34 / A4440 / A47","A4440",407200,287200,52.48269072,-1.89540396,0.7,0.4
+17998,10,"West Midlands",141,"Birmingham","A4540","Major","A441","A38",406900,285450,52.46696206,-1.89985684,0.2,0.1
+18449,10,"West Midlands",141,"Birmingham","A4400","Major","A441","A41",407050,286470,52.47612996,-1.89762784,0.4,0.2
+18539,10,"West Midlands",141,"Birmingham","A452","Major","B4149","B4138 Western route",409260,295000,52.55278165,-1.86485399,2.6,1.6
+26361,10,"West Midlands",141,"Birmingham","A34","Major","B4217","A41",409200,284000,52.45389301,-1.86604062,1.8,1.1
+26393,10,"West Midlands",141,"Birmingham","A38","Major","A452","A4097",414850,292220,52.52766709,-1.78253276,2.5,1.6
+26395,10,"West Midlands",141,"Birmingham","A38","Major","B4217","A4540",406614,284965,52.46260541,-1.90407603,1.5,0.9
+26396,10,"West Midlands",141,"Birmingham","A38","Major","LA Boundary","Lickey Road roundabout",400000,277540,52.39589258,-2.00141704,2,1.2
+26454,10,"West Midlands",141,"Birmingham","A41","Major","A34","A4040 Stockfield",410000,283900,52.45298025,-1.85427126,2.7,1.7
+27159,10,"West Midlands",141,"Birmingham","A435","Major","B4217","A4540",407780,284000,52.45391485,-1.88693645,1.9,1.2
+27167,10,"West Midlands",141,"Birmingham","A441","Major","A4040","A4029",405400,281000,52.42697311,-1.92200580,3.3,2.1
+27191,10,"West Midlands",141,"Birmingham","A452","Major","A453","B4149",409700,294420,52.54755995,-1.85838143,0.3,0.2
+27192,10,"West Midlands",141,"Birmingham","A452","Major","B4114","M6 roundabout",413700,289600,52.50414335,-1.79959181,0.8,0.5
+27196,10,"West Midlands",141,"Birmingham","A453","Major","B4138","A452",408000,292800,52.53302382,-1.88349040,3.1,1.9
+27203,10,"West Midlands",141,"Birmingham","A5127","Major","A453","A454",412016,297221,52.57269515,-1.82412774,1.1,0.7
+27690,10,"West Midlands",141,"Birmingham","A4040","Major","A4040 Wheelwright Road","A47",411440,289900,52.50689188,-1.83287715,0.4,0.2
+27691,10,"West Midlands",141,"Birmingham","A4040","Major","A34","B4514",411150,282000,52.43587743,-1.83741127,1.7,1.1
+27736,10,"West Midlands",141,"Birmingham","A4540","Major","A47","A45",408418,286991,52.48079453,-1.87747431,1.8,1.1
+27737,10,"West Midlands",141,"Birmingham","A4540","Major","B4126","A457",405200,287000,52.48091523,-1.92485648,1,0.6
+27773,10,"West Midlands",141,"Birmingham","A5127","Major","A38(M)","A4040",410000,290400,52.51141494,-1.85407852,1.6,1
+27951,10,"West Midlands",141,"Birmingham","A4040","Major","A38","A4123",404000,282800,52.44316704,-1.94257431,2.8,1.7
+27952,10,"West Midlands",141,"Birmingham","A4400","Major","A456/A457 rooundabout","A41",406650,287160,52.48233804,-1.90350336,1,0.6
+28039,10,"West Midlands",141,"Birmingham","A41","Major","A4040 South Section","A4040 / B4136 Handsworth",404200,289600,52.50429775,-1.93954867,0.4,0.2
+28042,10,"West Midlands",141,"Birmingham","A4540","Major","A41","A45",408540,285970,52.47161389,-1.87570349,0.8,0.5
+28465,10,"West Midlands",141,"Birmingham","A45","Major","A4540","A4040",410000,284900,52.46197023,-1.85424189,5,3.1
+28476,10,"West Midlands",141,"Birmingham","A41","Major","A4040 Stockfield","A4040 Acocks Green",411575,283690,52.45106178,-1.83110217,0.1,0.1
+36023,10,"West Midlands",141,"Birmingham","M6","Major","6","5",413800,290180,52.50935498,-1.79809442,5.2,3.2
+36070,10,"West Midlands",141,"Birmingham","A38(M)","Major","Park Circus B4132 Waterlinks Boulevard","A38  M6(J6)",408500,289940,52.50730482,-1.87619268,1.5,0.9
+36365,10,"West Midlands",141,"Birmingham","A41","Major","A45 Triangle","A441",408000,286300,52.47458869,-1.88364526,1,0.6
+36366,10,"West Midlands",141,"Birmingham","A34","Major","B4025 roundabout","A4040",410966,280773,52.42485034,-1.84015732,0.9,0.6
+36400,10,"West Midlands",141,"Birmingham","A4400","Major","A41","A47",407380,286850,52.47954183,-1.89276112,0.6,0.4
+36401,10,"West Midlands",141,"Birmingham","A38","Major","A4040","A4029",405000,283250,52.44720446,-1.92785602,2.4,1.5
+36456,10,"West Midlands",141,"Birmingham","A41","Major","A4040 Handsworth / B4136","A4040 Handsworth",403860,289700,52.50519922,-1.94455640,1.2,0.7
+37188,10,"West Midlands",141,"Birmingham","A435","Major","Maypole Lane/Druids Lane roundabout","A4040",407500,280000,52.41795858,-1.89114417,2.8,1.7
+37198,10,"West Midlands",141,"Birmingham","A441","Major","Wharf Road roundabout","A4040",405000,279000,52.40899676,-1.92791707,1,0.6
+37222,10,"West Midlands",141,"Birmingham","A452","Major","B4148","A5127",412000,292600,52.53115275,-1.82452875,1.9,1.2
+37227,10,"West Midlands",141,"Birmingham","A5127","Major","A453","A5127 Queen St",411850,295500,52.55722695,-1.82663748,0.8,0.5
+37233,10,"West Midlands",141,"Birmingham","A456","Major","A456","A4030/A4040",402000,285800,52.47014797,-1.97198059,0.5,0.3
+37238,10,"West Midlands",141,"Birmingham","A457","Major","A4040","A4540",405000,287630,52.48658079,-1.92779206,1.3,0.8
+37730,10,"West Midlands",141,"Birmingham","A4040","Major","A441","A435",406000,280730,52.42453963,-1.91318663,2.3,1.4
+37779,10,"West Midlands",141,"Birmingham","A4540","Major","A34","A38(M)",407400,288270,52.49230736,-1.89243560,0.6,0.4
+37780,10,"West Midlands",141,"Birmingham","A4540","Major","A38","A456",406000,285960,52.47155748,-1.91309557,1.5,0.9
+37818,10,"West Midlands",141,"Birmingham","A5127","Major","A454","A4026",410980,300000,52.59769978,-1.83932283,3.3,2.1
+37936,10,"West Midlands",141,"Birmingham","A441","Major","A441 Sherlock St","A4400",407200,286355,52.47509417,-1.89542187,0.6,0.4
+38010,10,"West Midlands",141,"Birmingham","A4040","Major","LA Boundary","A457",404000,287500,52.48542024,-1.94251962,2.4,1.5
+38202,10,"West Midlands",141,"Birmingham","A456","Major","A4540","A4400/A457 roundabout",406019,286486,52.47628603,-1.91280655,1.2,0.7
+38313,10,"West Midlands",141,"Birmingham","M6","Major","A47","5",414060,290100,52.50862921,-1.79426689,0.6,0.4
+38523,10,"West Midlands",141,"Birmingham","M6","Major","5","LA Boundary",416370,290730,52.51422919,-1.76020163,2.5,1.6
+38552,10,"West Midlands",141,"Birmingham","A456","Major","A4030/A4040","A4040",402340,286090,52.47275377,-1.96697364,0.2,0.1
+46365,10,"West Midlands",141,"Birmingham","A34","Major","A34 spur","A4041",405000,293800,52.54204919,-1.92770176,3.8,2.4
+46397,10,"West Midlands",141,"Birmingham","A38","Major","A4097","LA Boundary",415380,295000,52.55264473,-1.77459384,4,2.5
+46398,10,"West Midlands",141,"Birmingham","A5127","Major","A38(M)/A4540","A38(M)",409370,290000,52.50783005,-1.86337281,3.2,2
+46399,10,"West Midlands",141,"Birmingham","A38","Major","A4540","A4400",406900,286000,52.47190656,-1.89984576,0.9,0.6
+46400,10,"West Midlands",141,"Birmingham","A38","Major","B4120","B4121",401200,278000,52.40002754,-1.98378095,3,1.9
+46456,10,"West Midlands",141,"Birmingham","A41","Major","A4440","A4540 Triangle",406300,288000,52.48989376,-1.90864135,1.7,1.1
+46481,10,"West Midlands",141,"Birmingham","A45","Major","A41","A4540",408500,286100,52.47278321,-1.87628911,0.3,0.2
+47166,10,"West Midlands",141,"Birmingham","A4540","Major","A4540 Belgrave Middleway","A41",408000,285300,52.46559870,-1.88366866,1,0.6
+47176,10,"West Midlands",141,"Birmingham","A441","Major","A4029","A4540",406789,284906,52.46207287,-1.90150150,2.1,1.3
+47202,10,"West Midlands",141,"Birmingham","A452","Major","A47","A38",413700,291000,52.51672918,-1.79953397,0.8,0.5
+47206,10,"West Midlands",141,"Birmingham","A453","Major","M6","B4138",407300,292400,52.52943758,-1.89381871,0.4,0.2
+47214,10,"West Midlands",141,"Birmingham","A456","Major","M5","A458",399560,283950,52.45351944,-2.00789642,1.9,1.2
+47686,10,"West Midlands",141,"Birmingham","A4040","Major","A457","A41",404300,288000,52.48991299,-1.93809563,2.1,1.3
+47687,10,"West Midlands",141,"Birmingham","A4040","Major","A5127","A38",410981,291085,52.51755429,-1.83960066,1.4,0.9
+47688,10,"West Midlands",141,"Birmingham","A4040","Major","B4514","A41",411583,283408,52.44852645,-1.83099408,0.9,0.6
+47706,10,"West Midlands",141,"Birmingham","A4040","Major","A441","A38",404760,280000,52.41798890,-1.93143155,2.7,1.7
+47731,10,"West Midlands",141,"Birmingham","A4540","Major","A457","A4540 Heaton St",405800,288110,52.49088816,-1.91600304,0.9,0.6
+47777,10,"West Midlands",141,"Birmingham","A5127","Major","A4040","A452",411048,292000,52.52577882,-1.83858296,1.7,1.1
+47998,10,"West Midlands",141,"Birmingham","A4029","Major","A441","A38",406000,283780,52.45195925,-1.91313367,0.3,0.2
+47999,10,"West Midlands",141,"Birmingham","A4400","Major","A456/A457 roundabout","A38",406670,286600,52.47730339,-1.90321987,0.7,0.4
+48068,10,"West Midlands",141,"Birmingham","A41","Major","A34","A4167",408910,284470,52.45812305,-1.87029580,0.2,0.1
+48185,10,"West Midlands",141,"Birmingham","A38(M)","Major","M6","A38",409483,290217,52.50977895,-1.86170170,0.8,0.5
+56109,10,"West Midlands",141,"Birmingham","A441","Major","A441Pershore St","A41",407530,286090,52.47270741,-1.89056934,0.8,0.5
+56330,10,"West Midlands",141,"Birmingham","A34","Major","A4540","A4040",406660,290000,52.50786957,-1.90330037,2.7,1.7
+56331,10,"West Midlands",141,"Birmingham","A41","Major","A4167","A4540 / A435",408540,285000,52.46289361,-1.87572776,1.3,0.8
+56385,10,"West Midlands",141,"Birmingham","A45","Major","B425","LA Boundary",416000,283740,52.45140050,-1.76598819,1.4,0.9
+56394,10,"West Midlands",141,"Birmingham","A38","Major","A4400","A38(M)",407500,287800,52.48808071,-1.89097324,0.8,0.5
+56399,10,"West Midlands",141,"Birmingham","A38","Major","A4040","B4148",412000,290730,52.51434158,-1.82459633,1.3,0.8
+56416,10,"West Midlands",141,"Birmingham","A45","Major","A4040","B425",414400,284000,52.45378206,-1.78952049,2.8,1.7
+56948,10,"West Midlands",141,"Birmingham","A4040","Major","A34","A5127",408020,290616,52.51338931,-1.88324841,4.9,3
+57103,10,"West Midlands",141,"Birmingham","A441","Major","LA Boundary","Wharf Road roundabout",405000,278760,52.40683916,-1.92792048,3.1,1.9
+57191,10,"West Midlands",141,"Birmingham","A41","Major","A441","A4440",407370,286620,52.47747427,-1.89291334,0.3,0.2
+57193,10,"West Midlands",141,"Birmingham","A4540","Major","B4133","A47",407951,287785,52.48793952,-1.88433193,0.5,0.3
+57194,10,"West Midlands",141,"Birmingham","A4540","Major","A4540 Highgate Middleway","A441",407393,285218,52.46487000,-1.89260503,1,0.6
+57213,10,"West Midlands",141,"Birmingham","A454","Major","LA Boundary","A5127",410000,299530,52.59349320,-1.85380516,2.8,1.7
+57233,10,"West Midlands",141,"Birmingham","A38(M)","Major","Dartmouth Circus A4540","Park Circus B4132 Waterlinks Boulevard",407840,289000,52.49886396,-1.88593838,1.5,0.9
+57238,10,"West Midlands",141,"Birmingham","A457","Major","LA Boundary","A4040",404000,287620,52.48649904,-1.94251821,0.5,0.3
+57689,10,"West Midlands",141,"Birmingham","A4040","Major","A41","A4040 Rookery rd",403990,290797,52.51506038,-1.94262856,1.5,0.9
+57701,10,"West Midlands",141,"Birmingham","A4097","Major","A38","LA Boundary",416000,292400,52.52925329,-1.76557420,2,1.2
+57729,10,"West Midlands",141,"Birmingham","A4040","Major","A45","B4128",413001,285734,52.46940533,-1.81004073,2.3,1.4
+58153,10,"West Midlands",141,"Birmingham","A457","Major","A4040","A4040",404235,287615,52.48645234,-1.93905766,0.2,0.1
+70221,10,"West Midlands",141,"Birmingham","A4540","Major","Icknield St","New John St West",406179,288431,52.49376983,-1.91041547,0.6,0.4
+70222,10,"West Midlands",141,"Birmingham","A41","Major","Icknield St","A41",405770,288400,52.49349557,-1.91643993,0.4,0.2
+70223,10,"West Midlands",141,"Birmingham","A41","Major","A41","Great King St roundabout",406050,288510,52.49448147,-1.91231403,0.5,0.3
+70224,10,"West Midlands",141,"Birmingham","A5127","Major","Birmingham Rd","Mill St",411900,296080,52.56244015,-1.82587989,0.5,0.3
+70225,10,"West Midlands",141,"Birmingham","A5127","Major","Birmingham Rd","Mill St",412200,296060,52.56225378,-1.82145515,0.7,0.4
+70226,10,"West Midlands",141,"Birmingham","A5127","Major","Victoria Rd","A453",412100,296680,52.56782976,-1.82290788,0.8,0.5
+70227,10,"West Midlands",141,"Birmingham","A38(M)","Major","A38(M)","A4540",407620,288100,52.49077606,-1.88919929,0.3,0.2
+70230,10,"West Midlands",141,"Birmingham","M6","Major","M6 spur","M6 spur",409200,290470,52.51205825,-1.86586453,0.7,0.4
+70231,10,"West Midlands",141,"Birmingham","M6","Major","M6 main route","Salford Circus",409500,290280,52.51034503,-1.86144941,0.8,0.5
+70232,10,"West Midlands",141,"Birmingham","M6","Major","A38(M)","M6 main route",409074,290315,52.51066690,-1.86772539,0.8,0.5
+70233,10,"West Midlands",141,"Birmingham","M6","Major","A38(M)","M6 main route",409057,290206,52.50968726,-1.86797885,0.7,0.4
+70234,10,"West Midlands",141,"Birmingham","M6","Major","M6 main route","Salford Circus",409460,290300,52.51052552,-1.86203823,0.8,0.5
+70235,10,"West Midlands",141,"Birmingham","A38(M)","Major","A5127","A5127",409771,290247,52.51004359,-1.85745731,0.3,0.2
+70236,10,"West Midlands",141,"Birmingham","A38(M)","Major","A38(M)","A38(M)",409750,290100,52.50872243,-1.85777104,0.5,0.3
+73055,10,"West Midlands",141,"Birmingham","A34","Major","LA Boundary","B4025",411329,280320,52.42077060,-1.83483424,0.5,0.3
+73058,10,"West Midlands",141,"Birmingham","A38","Major","LA Boundary","LA Boundary",415545,297070,52.57124919,-1.77206416,0.8,0.5
+73423,10,"West Midlands",141,"Birmingham","A458","Major","LA Boundary","A456",399374,284904,52.46209569,-2.01063553,0.4,0.2
+74460,10,"West Midlands",141,"Birmingham","A38","Major","A5127","A38M",409780,290090,52.50863199,-1.85732931,0.3,0.2
+74468,10,"West Midlands",141,"Birmingham","A5127","Major","A38","A38M",409765,290250,52.51007067,-1.85754563,0.4,0.2
+74479,10,"West Midlands",141,"Birmingham","A38","Major","A38M","A4540",407622,288159,52.49130644,-1.88916851,0.3,0.2
+75000,10,"West Midlands",141,"Birmingham","A4040","Major","A38","A4040 Wheelwright Road",411390,290220,52.50976968,-1.83360283,0.3,0.2
+75001,10,"West Midlands",141,"Birmingham","A4040","Major","A4040 Bromford Lane","A38",411300,290180,52.50941194,-1.83493030,0.3,0.2
+75002,10,"West Midlands",141,"Birmingham","A38","Major","A4040 Wheelwright Road","A4040 Bromford Lane",411290,290240,52.50995154,-1.83507560,0.2,0.1
+75003,10,"West Midlands",141,"Birmingham","A34","Major","A4040","A34 spur",406815,291163,52.51832313,-1.90099340,0.5,0.3
+75004,10,"West Midlands",141,"Birmingham","A34","Major","A34 main route","A453",406930,291200,52.51865433,-1.89929790,0.2,0.1
+75005,10,"West Midlands",141,"Birmingham","A453","Major","A4040","A34 spur",406930,291130,52.51802503,-1.89929936,0.5,0.3
+75461,10,"West Midlands",141,"Birmingham","A47","Major","A4540","A4040",409500,288780,52.49685999,-1.86149227,4.5,2.8
+77254,10,"West Midlands",141,"Birmingham","A453","Major","B4148 Whitehouse Common","LA Boundary",414000,298390,52.58315740,-1.79480457,1.5,0.9
+78684,10,"West Midlands",141,"Birmingham","A452","Major","B4138 W","B4138 E",408300,296700,52.56807986,-1.87897075,0.2,0.1
+80494,10,"West Midlands",141,"Birmingham","A47","Major","A47","A4400",407835,287417,52.48463287,-1.88604871,0.9,0.6
+80695,10,"West Midlands",141,"Birmingham","A4400","Major","A441","B4114",407380,286850,52.47954183,-1.89276112,1,0.6
+80696,10,"West Midlands",141,"Birmingham","A441","Major","Junction 7 M3","Junction 6 M3",407200,286355,52.47509417,-1.89542187,0.8,0.5
+80832,10,"West Midlands",141,"Birmingham","M6(T)","Major","A446","LA Boundary",414170,298770,52.58656920,-1.79227947,2.6,1.6
+80834,10,"West Midlands",141,"Birmingham","M6(T)","Major","T3","LA Boundary",415400,297080,52.57134316,-1.77420307,0.8,0.5
+81026,10,"West Midlands",141,"Birmingham","M6(T)","Major","LA (Warwickshire) boundary","A38",415660,296860,52.56935806,-1.77037727,0.4,0.2
+81027,10,"West Midlands",141,"Birmingham","A38","Major","M6 Toll slip road","LA (Warwickshire) Boundary",415510,297230,52.57268856,-1.77257312,0.4,0.2
+81028,10,"West Midlands",141,"Birmingham","A38","Major","LA (Warwickshire)","M6 Toll slip road",415630,296860,52.56935891,-1.77081988,0.4,0.2
+81164,10,"West Midlands",141,"Birmingham","A4041","Major","LA Boundary","A452",406880,295230,52.55488434,-1.89995135,1.9,1.2
+81323,10,"West Midlands",141,"Birmingham","A4041","Major","LA Boundary","A452",406876,295223,52.55482146,-1.90001049,3.6,2.2
+81487,10,"West Midlands",141,"Birmingham","A38","Major","A456/A457 roundabout","A38",406704,286550,52.47685348,-1.90272028,0.7,0.4
+81488,10,"West Midlands",141,"Birmingham","A4400","Major","A456/A457 roundabout","A38",406760,286496,52.47636734,-1.90189687,0.8,0.5
+81489,10,"West Midlands",141,"Birmingham","A38","Major","A4540","A4400",406900,286000,52.47190656,-1.89984576,0.9,0.6
+81490,10,"West Midlands",141,"Birmingham","A4400","Major","A4540","A4400",406900,286000,52.47190656,-1.89984576,0.9,0.6
+81491,10,"West Midlands",141,"Birmingham","A38","Major","A456/A457 rooundabout","B4100",406742,287272,52.48334380,-1.90214646,1,0.6
+81492,10,"West Midlands",141,"Birmingham","A4400","Major","A456/A457 rooundabout","B4100",406709,287257,52.48320936,-1.90263268,1.2,0.7
+81493,10,"West Midlands",141,"Birmingham","A38","Major","A41","A38",407127,287569,52.48600898,-1.89647110,0.8,0.5
+81494,10,"West Midlands",141,"Birmingham","A4400","Major","A41","A38",407127,287555,52.48588312,-1.89647139,0.9,0.6
+81575,10,"West Midlands",141,"Birmingham","A4040","Major","A38 Aston Webb Boulevard","A4123",403777,283247,52.44718716,-1.94585017,2.9,1.8
+81576,10,"West Midlands",141,"Birmingham","A38","Major","A38","A38 Aston Webb",404051,282699,52.44225868,-1.94182517,1.2,0.7
+81577,10,"West Midlands",141,"Birmingham","A38","Major","A4040","A4029",405035,283260,52.44729405,-1.92734092,2.4,1.5
+84077,10,"West Midlands",141,"Birmingham","A452","Major","B4114","M6 roundabout",413700,289600,52.50414335,-1.79959181,0.8,0.5
+89102,10,"West Midlands",141,"Birmingham","A452","Major","M6 roundabout","A47 Fort Parkway",413697,289676,52.50482665,-1.79963287,1.1,0.7
+89247,10,"West Midlands",141,"Birmingham","A4029","Major","A4029","B4217",406042,283744,52.45163515,-1.91251628,0.4,0.2
+90316,10,"West Midlands",141,"Birmingham","A47","Major","A4540","A4040",409500,288780,52.49685999,-1.86149227,5,3.1
+92245,10,"West Midlands",141,"Birmingham","A38","Major","lat: 52.3945 long: -2.0174","lat: 52.4389 long: -1.9402",402300,280000,52.41800473,-1.96760197,8.6,5.3
+92292,10,"West Midlands",141,"Birmingham","A45","Major","lat: 52.4618 long: -1.8157","lat: 52.4451 long: -1.7098",413440,284763,52.46066562,-1.80361697,4.6,2.9
+93041,10,"West Midlands",141,"Birmingham","A38","Major","A38","A38 Aston Webb",404051,282699,52.44225868,-1.94182517,0.6,0.4
+93042,10,"West Midlands",141,"Birmingham","A4040","Major","A47","B4128",413065,287132,52.48197168,-1.80904416,6.4,4
+94138,10,"West Midlands",141,"Birmingham","A435","Major","A4040 Howard Road","Belgrave Middleway",407400,282000,52.43594003,-1.89257143,4.2,2.6
+94233,10,"West Midlands",141,"Birmingham","A453","Major","A4040","A34 spur",406930,291130,52.51802503,-1.89929936,0.5,0.3
+95057,10,"West Midlands",141,"Birmingham","A453","Major","Junction A34/A453","M6 Overpass",407100,292000,52.52584419,-1.89677548,1.5,0.9
+96041,10,"West Midlands",141,"Birmingham","A38","Major","Just West of Birmingham New Street Railway Station","A4540 Belgrave Middleway",406915,286211,52.47380326,-1.89962065,1.3,0.8
+96042,10,"West Midlands",141,"Birmingham","A38","Major","Just West of Birmingham New Street Railway Station","B4100",406478,286930,52.48027239,-1.90604039,1.2,0.7
+96043,10,"West Midlands",141,"Birmingham","A4400","Major","Just West of Birmingham New Street Railway Station","B4100",406431,286890,52.47991334,-1.90673317,1.3,0.8
+97121,10,"West Midlands",141,"Birmingham","A38","Major","Just West of Birmingham New Street Railway Station","A4540 Belgrave Middleway",406915,286211,52.47380326,-1.89962065,2,1.2
+97355,10,"West Midlands",141,"Birmingham","A45","Major","A4540","A4040",410000,284900,52.46197023,-1.85424189,5.7,3.5
+99233,10,"West Midlands",141,"Birmingham","A47","Major","A452","A457",412200,289950,52.50732508,-1.82167783,2.8,1.7
+99234,10,"West Midlands",141,"Birmingham","A452","Major","M6 roundabout","A47 Fort Parkway",413880,290300,52.51043176,-1.79691065,0.8,0.5
+800185,10,"West Midlands",141,"Birmingham","B4135","Minor",,,405955,287152,52.48227408,-1.91373710,,
+800186,10,"West Midlands",141,"Birmingham","B4138","Minor",,,407651,293225,52.53684951,-1.88862562,,
+800187,10,"West Midlands",141,"Birmingham","B4129","Minor",,,403771,283898,52.45303972,-1.94593137,,
+801232,10,"West Midlands",141,"Birmingham","C","Minor",,,414913,287048,52.48116960,-1.78183583,,
+801233,10,"West Midlands",141,"Birmingham","C","Minor",,,412008,287641,52.48657159,-1.82459024,,
+801234,10,"West Midlands",141,"Birmingham","C","Minor",,,399560,284717,52.46041477,-2.00789765,,
+802957,10,"West Midlands",141,"Birmingham","U","Minor",,,403362,285810,52.47023133,-1.95193108,,
+802958,10,"West Midlands",141,"Birmingham","U","Minor",,,405482,293840,52.54240421,-1.92059397,,
+802959,10,"West Midlands",141,"Birmingham","U","Minor",,,412827,288889,52.49777255,-1.81248085,,
+802960,10,"West Midlands",141,"Birmingham","U","Minor",,,402796,281845,52.43458887,-1.96029475,,
+802961,10,"West Midlands",141,"Birmingham","U","Minor",,,408318,283551,52.44987049,-1.87903050,,
+802962,10,"West Midlands",141,"Birmingham","U","Minor",,,409222,286097,52.47274465,-1.86566015,,
+802963,10,"West Midlands",141,"Birmingham","U","Minor",,,410785,290593,52.51313513,-1.84250514,,
+802964,10,"West Midlands",141,"Birmingham","U","Minor",,,412510,296065,52.56229177,-1.81688196,,
+802965,10,"West Midlands",141,"Birmingham","U","Minor",,,408550,286322,52.47477821,-1.87554747,,
+802966,10,"West Midlands",141,"Birmingham","U","Minor",,,415890,291924,52.52497722,-1.76721809,,
+802967,10,"West Midlands",141,"Birmingham","U","Minor",,,414489,288777,52.49672447,-1.78800374,,
+802968,10,"West Midlands",141,"Birmingham","U","Minor",,,399255,278646,52.40583494,-2.01236897,,
+802969,10,"West Midlands",141,"Birmingham","U","Minor",,,411333,281167,52.42838506,-1.83474721,,
+802970,10,"West Midlands",141,"Birmingham","U","Minor",,,402640,285035,52.46326794,-1.96256523,,
+802972,10,"West Midlands",141,"Birmingham","U","Minor",,,408508,288534,52.49466469,-1.87611039,,
+802973,10,"West Midlands",141,"Birmingham","U","Minor",,,412414,284771,52.46076162,-1.81871707,,
+802974,10,"West Midlands",141,"Birmingham","U","Minor",,,412683,285761,52.46965547,-1.81472088,,
+802975,10,"West Midlands",141,"Birmingham","U","Minor",,,404653,289377,52.50228935,-1.93287815,,
+802976,10,"West Midlands",141,"Birmingham","U","Minor",,,407889,280579,52.42315841,-1.88541123,,
+802977,10,"West Midlands",141,"Birmingham","U","Minor",,,406566,294676,52.54990783,-1.90459360,,
+802978,10,"West Midlands",141,"Birmingham","U","Minor",,,412428,295805,52.55995622,-1.81810112,,
+802980,10,"West Midlands",141,"Birmingham","U","Minor",,,401734,280248,52.42023615,-1.97592291,,
+802981,10,"West Midlands",141,"Birmingham","U","Minor",,,402741,279900,52.41710367,-1.96111852,,
+802982,10,"West Midlands",141,"Birmingham","U","Minor",,,404605,281438,52.43091792,-1.93369163,,
+802983,10,"West Midlands",141,"Birmingham","U","Minor",,,405237,281170,52.42850298,-1.92440038,,
+802984,10,"West Midlands",141,"Birmingham","U","Minor",,,401274,283699,52.45126191,-1.98267522,,
+802985,10,"West Midlands",141,"Birmingham","U","Minor",,,414207,284848,52.46141050,-1.79232491,,
+802986,10,"West Midlands",141,"Birmingham","U","Minor",,,408455,289623,52.50445566,-1.87686367,,
+802987,10,"West Midlands",141,"Birmingham","U","Minor",,,414012,290735,52.51433900,-1.79494729,,
+802988,10,"West Midlands",141,"Birmingham","U","Minor",,,401283,280291,52.42062379,-1.98255427,,
+802989,10,"West Midlands",141,"Birmingham","U","Minor",,,410223,290802,52.51502481,-1.85078024,,
+802990,10,"West Midlands",141,"Birmingham","U","Minor",,,408714,294504,52.54833166,-1.87291988,,
+802991,10,"West Midlands",141,"Birmingham","U","Minor",,,407132,286582,52.47713578,-1.89641824,,
+802992,10,"West Midlands",141,"Birmingham","U","Minor",,,413060,284501,52.45831941,-1.80921981,,
+802993,10,"West Midlands",141,"Birmingham","U","Minor",,,414346,284625,52.45940215,-1.79028859,,
+805271,10,"West Midlands",141,"Birmingham","U","Minor",,,405532,282282,52.43849706,-1.92004409,,
+805330,10,"West Midlands",141,"Birmingham","U","Minor",,,401098,283834,52.45247592,-1.98526458,,
+805760,10,"West Midlands",141,"Birmingham","U","Minor",,,416607,294202,52.54543526,-1.75653719,,
+806442,10,"West Midlands",141,"Birmingham","U","Minor",,,411329,291961,52.52542246,-1.83444232,,
+806475,10,"West Midlands",141,"Birmingham","B4284","Minor",,,405041,285779,52.46993988,-1.92721570,,
+806503,10,"West Midlands",141,"Birmingham","B4125","Minor",,,404200,286144,52.47322828,-1.93959114,,
+806592,10,"West Midlands",141,"Birmingham","U","Minor",,,411279,291277,52.51927433,-1.83520247,,
+806671,10,"West Midlands",141,"Birmingham","B4142","Minor",,,410881,294432,52.54764562,-1.84096455,,
+806844,10,"West Midlands",141,"Birmingham","B4121","Minor",,,401702,281789,52.43408977,-1.97638650,,
+807033,10,"West Midlands",141,"Birmingham","U","Minor",,,404297,290504,52.51242400,-1.93810840,,
+807167,10,"West Midlands",141,"Birmingham","U","Minor",,,406862,288075,52.49056129,-1.90036318,,
+807292,10,"West Midlands",141,"Birmingham","C","Minor",,,415710,285521,52.46741983,-1.77017221,,
+807346,10,"West Midlands",141,"Birmingham","B4124","Minor",,,404212,284980,52.46276379,-1.93942881,,
+807562,10,"West Midlands",141,"Birmingham","C","Minor",,,412690,282715,52.44227210,-1.81473202,,
+807634,10,"West Midlands",141,"Birmingham","U","Minor",,,408470,290880,52.51575593,-1.87661069,,
+807654,10,"West Midlands",141,"Birmingham","C","Minor",,,407880,289362,52.50211780,-1.88534077,,
+807738,10,"West Midlands",141,"Birmingham","U","Minor",,,408837,279100,52.40984778,-1.87150896,,
+807868,10,"West Midlands",141,"Birmingham","U","Minor",,,409715,283706,52.45124123,-1.85847059,,
+807907,10,"West Midlands",141,"Birmingham","U","Minor",,,407283,293589,52.54012683,-1.89404322,,
+808038,10,"West Midlands",141,"Birmingham","C","Minor",,,405139,284482,52.45827891,-1.92579260,,
+808178,10,"West Midlands",141,"Birmingham","U","Minor",,,407979,293948,52.54334451,-1.88377243,,
+808194,10,"West Midlands",141,"Birmingham","U","Minor",,,413539,287236,52.48289519,-1.80206019,,
+808297,10,"West Midlands",141,"Birmingham","U","Minor",,,410867,291347,52.51991196,-1.84127217,,
+808487,10,"West Midlands",141,"Birmingham","U","Minor",,,406795,284606,52.45937580,-1.90141912,,
+808493,10,"West Midlands",141,"Birmingham","C","Minor",,,405418,288179,52.49151235,-1.92162783,,
+808794,10,"West Midlands",141,"Birmingham","U","Minor",,,402470,282447,52.44000243,-1.96508562,,
+808960,10,"West Midlands",141,"Birmingham","B4145","Minor",,,409938,286055,52.47235475,-1.85512068,,
+809093,10,"West Midlands",141,"Birmingham","U","Minor",,,412308,281692,52.43308406,-1.82038898,,
+809299,10,"West Midlands",141,"Birmingham","U","Minor",,,405724,285871,52.47076030,-1.91716007,,
+809313,10,"West Midlands",141,"Birmingham","U","Minor",,,413821,292804,52.53294386,-1.79767562,,
+809413,10,"West Midlands",141,"Birmingham","B4142","Minor",,,410850,292349,52.52892030,-1.84149008,,
+809507,10,"West Midlands",141,"Birmingham","U","Minor",,,411588,292275,52.52823989,-1.83061374,,
+809634,10,"West Midlands",141,"Birmingham","U","Minor",,,410643,279507,52.41347522,-1.84494679,,
+810115,10,"West Midlands",141,"Birmingham","U","Minor",,,399996,276848,52.38967125,-2.00147514,,
+810147,10,"West Midlands",141,"Birmingham","U","Minor",,,412017,298394,52.58324031,-1.82407082,,
+810211,10,"West Midlands",141,"Birmingham","C","Minor",,,409199,283801,52.45210401,-1.86606070,,
+810250,10,"West Midlands",141,"Birmingham","U","Minor",,,402530,283409,52.44865061,-1.96419604,,
+810382,10,"West Midlands",141,"Birmingham","U","Minor",,,407741,285633,52.46859607,-1.88747342,,
+810873,10,"West Midlands",141,"Birmingham","B4144","Minor",,,406326,289453,52.50295595,-1.90823136,,
+810908,10,"West Midlands",141,"Birmingham","U","Minor",,,415825,292285,52.52822446,-1.76815905,,
+812135,10,"West Midlands",141,"Birmingham","B4151","Minor",,,412887,298972,52.58841676,-1.81120846,,
+812140,10,"West Midlands",141,"Birmingham","U","Minor",,,404655,278680,52.40612302,-1.93299290,,
+812141,10,"West Midlands",141,"Birmingham","B4146","Minor",,,407813,281502,52.43145730,-1.88650779,,
+812267,10,"West Midlands",141,"Birmingham","U","Minor",,,403887,278544,52.40490634,-1.94428349,,
+812298,10,"West Midlands",141,"Birmingham","U","Minor",,,406301,285039,52.46327433,-1.90868149,,
+812305,10,"West Midlands",141,"Birmingham","U","Minor",,,411798,294274,52.54620627,-1.82744710,,
+820021,10,"West Midlands",141,"Birmingham","U","Minor",,,415022,291603,52.52211563,-1.78002509,,
+820022,10,"West Midlands",141,"Birmingham","U","Minor",,,413804,291256,52.51902799,-1.79799068,,
+820023,10,"West Midlands",141,"Birmingham","U","Minor",,,414801,284562,52.45882373,-1.78359499,,
+820024,10,"West Midlands",141,"Birmingham","U","Minor",,,407833,283718,52.45137892,-1.88616299,,
+919019,10,"West Midlands",141,"Birmingham","B4146","Minor",,,412444,284131,52.45500742,-1.81829905,,
+930055,10,"West Midlands",141,"Birmingham","B4114","Minor",,,409380,288280,52.49236706,-1.86327384,,
+930056,10,"West Midlands",141,"Birmingham","B4217","Minor",,,410540,282740,52.44254191,-1.84636106,,
+930057,10,"West Midlands",141,"Birmingham","B4096","Minor",,,401760,276790,52.38914812,-1.97555581,,
+930290,10,"West Midlands",141,"Birmingham","U","Minor",,,405510,293550,52.53979686,-1.92018590,,
+930291,10,"West Midlands",141,"Birmingham","U","Minor",,,410430,295090,52.55356973,-1.84759488,,
+930292,10,"West Midlands",141,"Birmingham","U","Minor",,,414010,290750,52.51447390,-1.79497613,,
+930293,10,"West Midlands",141,"Birmingham","U","Minor",,,415610,288550,52.49465310,-1.77150200,,
+930294,10,"West Midlands",141,"Birmingham","U","Minor",,,415570,286900,52.47982090,-1.77216852,,
+930295,10,"West Midlands",141,"Birmingham","U","Minor",,,410970,286300,52.47453778,-1.83992005,,
+930296,10,"West Midlands",141,"Birmingham","C","Minor",,,409090,287200,52.48266275,-1.86757399,,
+930297,10,"West Midlands",141,"Birmingham","U","Minor",,,404300,291560,52.52191750,-1.93805112,,
+930298,10,"West Midlands",141,"Birmingham","U","Minor",,,404020,287030,52.48119478,-1.94223063,,
+930299,10,"West Midlands",141,"Birmingham","U","Minor",,,402140,285100,52.46385443,-1.96992396,,
+930300,10,"West Midlands",141,"Birmingham","U","Minor",,,399960,284330,52.45693587,-2.00201043,,
+930301,10,"West Midlands",141,"Birmingham","U","Minor",,,401060,282770,52.44291056,-1.98582674,,
+930302,10,"West Midlands",141,"Birmingham","U","Minor",,,398970,278270,52.40245396,-2.01655672,,
+930303,10,"West Midlands",141,"Birmingham","U","Minor",,,402580,278950,52.40856391,-1.96349225,,
+930304,10,"West Midlands",141,"Birmingham","U","Minor",,,403860,277630,52.39668950,-1.94469009,,
+930305,10,"West Midlands",141,"Birmingham","U","Minor",,,406080,279100,52.40988494,-1.91203885,,
+930306,10,"West Midlands",141,"Birmingham","U","Minor",,,405090,281780,52.43398828,-1.92655338,,
+930307,10,"West Midlands",141,"Birmingham","U","Minor",,,408140,279490,52.41336459,-1.88174609,,
+930308,10,"West Midlands",141,"Birmingham","U","Minor",,,411430,281530,52.43164645,-1.83330845,,
+930309,10,"West Midlands",141,"Birmingham","U","Minor",,,413020,284010,52.45390633,-1.80982739,,
+930310,10,"West Midlands",141,"Birmingham","U","Minor",,,408390,283950,52.45345641,-1.87796130,,
+930311,10,"West Midlands",141,"Birmingham","U","Minor",,,412270,297750,52.57744521,-1.82036051,,
+930312,10,"West Midlands",141,"Birmingham","U","Minor",,,408420,292000,52.52582552,-1.87731905,,
+930313,10,"West Midlands",141,"Birmingham","U","Minor",,,409840,290860,52.51555325,-1.85642250,,
+930314,10,"West Midlands",141,"Birmingham","U","Minor",,,406270,286320,52.47479089,-1.90911423,,
+930315,10,"West Midlands",141,"Birmingham","U","Minor",,,407260,284450,52.45796744,-1.89457893,,
+930316,10,"West Midlands",141,"Birmingham","U","Minor",,,402940,281880,52.43490278,-1.95817638,,
+930317,10,"West Midlands",141,"Birmingham","U","Minor",,,401150,278350,52.40317420,-1.98451492,,
+930318,10,"West Midlands",141,"Birmingham","U","Minor",,,403330,277940,52.39947988,-1.95247628,,
+930319,10,"West Midlands",141,"Birmingham","U","Minor",,,404030,280390,52.42150080,-1.94216059,,
+942156,10,"West Midlands",141,"Birmingham","U","Minor",,,406417,282674,52.44201161,-1.90701822,,
+945338,10,"West Midlands",141,"Birmingham","U","Minor",,,405130,284040,52.45430540,-1.92593164,,
+947726,10,"West Midlands",141,"Birmingham","B4118","Minor",,,416516,290830,52.51512385,-1.75804542,,
+947727,10,"West Midlands",141,"Birmingham","B4151","Minor",,,409225,298967,52.58844539,-1.86526134,,
+947728,10,"West Midlands",141,"Birmingham","B4121","Minor",,,401372,284213,52.45588258,-1.98123127,,
+947729,10,"West Midlands",141,"Birmingham","B4515","Minor",,,406708,289354,52.50206142,-1.90260590,,
+947730,10,"West Midlands",141,"Birmingham","B4124","Minor",,,405594,289030,52.49916109,-1.91902174,,
+947732,10,"West Midlands",141,"Birmingham","B4146","Minor",,,411692,284227,52.45588691,-1.82936206,,
+947733,10,"West Midlands",141,"Birmingham","B4124","Minor",,,403073,284463,52.45812341,-1.95619731,,
+947734,10,"West Midlands",141,"Birmingham","B4217","Minor",,,405450,284927,52.46227650,-1.92120863,,
+947735,10,"West Midlands",141,"Birmingham","B4217","Minor",,,407662,283183,52.44657166,-1.88869113,,
+947736,10,"West Midlands",141,"Birmingham","B4128","Minor",,,408677,286150,52.47322995,-1.87368210,,
+947737,10,"West Midlands",141,"Birmingham","B4148","Minor",,,413540,295712,52.55909389,-1.80170191,,
+947738,10,"West Midlands",141,"Birmingham","B4142","Minor",,,411186,293414,52.53848783,-1.83650122,,
+947739,10,"West Midlands",141,"Birmingham","B4121","Minor",,,402231,280255,52.42029741,-1.96861497,,
+947740,10,"West Midlands",141,"Birmingham","B4145","Minor",,,409758,287525,52.48557312,-1.85772835,,
+947741,10,"West Midlands",141,"Birmingham","C","Minor",,,407446,285298,52.46558848,-1.89182319,,
+947742,10,"West Midlands",141,"Birmingham","B4126","Minor",,,407247,285674,52.46897137,-1.89474437,,
+947743,10,"West Midlands",141,"Birmingham","B4148","Minor",,,413661,292985,52.53457502,-1.80002693,,
+947744,10,"West Midlands",141,"Birmingham","B4514","Minor",,,412134,282746,52.44256331,-1.82291056,,
+947745,10,"West Midlands",141,"Birmingham","B4121","Minor",,,402165,280075,52.41867952,-1.96958649,,
+947746,10,"West Midlands",141,"Birmingham","B4128","Minor",,,411901,286938,52.48025400,-1.82619109,,
+947747,10,"West Midlands",141,"Birmingham","B4142","Minor",,,410800,292153,52.52715925,-1.84223348,,
+947748,10,"West Midlands",141,"Birmingham","B4146","Minor",,,412184,283469,52.44906191,-1.82214898,,
+947749,10,"West Midlands",141,"Birmingham","B4138","Minor",,,408142,295900,52.56089022,-1.88132104,,
+947750,10,"West Midlands",141,"Birmingham","B4132","Minor",,,408471,289222,52.50085040,-1.87663805,,
+947751,10,"West Midlands",141,"Birmingham","B4128","Minor",,,408931,286259,52.47420579,-1.86993991,,
+947752,10,"West Midlands",141,"Birmingham","B4120","Minor",,,400266,276753,52.38881730,-1.99750787,,
+947754,10,"West Midlands",141,"Birmingham","B4531","Minor",,,409797,292050,52.52625214,-1.85702100,,
+947755,10,"West Midlands",141,"Birmingham","B4151","Minor",,,411489,298846,52.58731504,-1.83184787,,
+947756,10,"West Midlands",141,"Birmingham","B4146","Minor",,,411285,284042,52.45423224,-1.83535768,,
+947757,10,"West Midlands",141,"Birmingham","B4121","Minor",,,403465,279670,52.41503185,-1.95047568,,
+947758,10,"West Midlands",141,"Birmingham","B4132","Minor",,,408413,289208,52.50072543,-1.87749280,,
+947759,10,"West Midlands",141,"Birmingham","B4129","Minor",,,403916,285245,52.46514832,-1.94378233,,
+947760,10,"West Midlands",141,"Birmingham","B4148","Minor",,,413168,293113,52.53573775,-1.80728998,,
+947761,10,"West Midlands",141,"Birmingham","B4149","Minor",,,409084,294670,52.54981796,-1.86745886,,
+947762,10,"West Midlands",141,"Birmingham","C","Minor",,,415856,292541,52.53052501,-1.76769004,,
+947763,10,"West Midlands",141,"Birmingham","C","Minor",,,404604,284040,52.45431002,-1.93367193,,
+947764,10,"West Midlands",141,"Birmingham","C","Minor",,,409687,292272,52.52824988,-1.85863589,,
+947765,10,"West Midlands",141,"Birmingham","C","Minor",,,399096,283127,52.44611993,-2.01472164,,
+947766,10,"West Midlands",141,"Birmingham","C","Minor",,,406738,281133,52.42815413,-1.90232601,,
+947768,10,"West Midlands",141,"Birmingham","C","Minor",,,409597,286034,52.47217195,-1.86014131,,
+947769,10,"West Midlands",141,"Birmingham","C","Minor",,,407707,287834,52.48838351,-1.88792407,,
+947770,10,"West Midlands",141,"Birmingham","C","Minor",,,408698,294529,52.54855666,-1.87315518,,
+947771,10,"West Midlands",141,"Birmingham","C","Minor",,,414528,289039,52.49907879,-1.78741780,,
+947772,10,"West Midlands",141,"Birmingham","C","Minor",,,404935,278810,52.40728926,-1.92887526,,
+947773,10,"West Midlands",141,"Birmingham","C","Minor",,,404446,280658,52.42390696,-1.93604007,,
+947774,10,"West Midlands",141,"Birmingham","C","Minor",,,410610,300506,52.60225590,-1.84476931,,
+947775,10,"West Midlands",141,"Birmingham","C","Minor",,,400619,284728,52.46051368,-1.99231168,,
+947776,10,"West Midlands",141,"Birmingham","C","Minor",,,414221,291371,52.52005120,-1.79184023,,
+947777,10,"West Midlands",141,"Birmingham","C","Minor",,,407068,281462,52.43110774,-1.89746601,,
+947778,10,"West Midlands",141,"Birmingham","C","Minor",,,408216,283583,52.45015970,-1.88053056,,
+947779,10,"West Midlands",141,"Birmingham","C","Minor",,,403598,286659,52.47786239,-1.94844814,,
+947780,10,"West Midlands",141,"Birmingham","C","Minor",,,404607,282562,52.44102272,-1.93364738,,
+947781,10,"West Midlands",141,"Birmingham","C","Minor",,,408207,293267,52.53721905,-1.88042725,,
+947782,10,"West Midlands",141,"Birmingham","C","Minor",,,410671,285601,52.46825969,-1.84434402,,
+947783,10,"West Midlands",141,"Birmingham","C","Minor",,,413345,285279,52.46530670,-1.80499479,,
+947784,10,"West Midlands",141,"Birmingham","C","Minor",,,413891,286182,52.47341106,-1.79692080,,
+947785,10,"West Midlands",141,"Birmingham","C","Minor",,,409756,292907,52.53395731,-1.85760010,,
+947786,10,"West Midlands",141,"Birmingham","C","Minor",,,405772,278443,52.40398182,-1.91657756,,
+947787,10,"West Midlands",141,"Birmingham","C","Minor",,,411681,293595,52.54010464,-1.82919637,,
+947788,10,"West Midlands",141,"Birmingham","C","Minor",,,402796,281846,52.43459786,-1.96029474,,
+947789,10,"West Midlands",141,"Birmingham","C","Minor",,,414482,296717,52.56810477,-1.78776349,,
+947790,10,"West Midlands",141,"Birmingham","C","Minor",,,406617,293514,52.53946102,-1.90386456,,
+947791,10,"West Midlands",141,"Birmingham","C","Minor",,,400414,283982,52.45380726,-1.99532947,,
+947792,10,"West Midlands",141,"Birmingham","C","Minor",,,410120,293352,52.53795120,-1.85222031,,
+947793,10,"West Midlands",141,"Birmingham","U","Minor",,,399441,282905,52.44412466,-2.00964527,,
+947794,10,"West Midlands",141,"Birmingham","U","Minor",,,412741,298447,52.58370047,-1.81338351,,
+947795,10,"West Midlands",141,"Birmingham","U","Minor",,,414106,286607,52.47722631,-1.79373753,,
+947796,10,"West Midlands",141,"Birmingham","U","Minor",,,408264,279590,52.41426176,-1.87992065,,
+947797,10,"West Midlands",141,"Birmingham","U","Minor",,,408345,284610,52.45939049,-1.87860737,,
+947798,10,"West Midlands",141,"Birmingham","U","Minor",,,404889,291415,52.52060905,-1.92937263,,
+947799,10,"West Midlands",141,"Birmingham","U","Minor",,,415878,289193,52.50042594,-1.76752388,,
+947800,10,"West Midlands",141,"Birmingham","U","Minor",,,413757,287099,52.48165817,-1.79885571,,
+947801,10,"West Midlands",141,"Birmingham","U","Minor",,,402732,279719,52.41547652,-1.96125218,,
+947802,10,"West Midlands",141,"Birmingham","U","Minor",,,410098,294699,52.55006090,-1.85250349,,
+947803,10,"West Midlands",141,"Birmingham","U","Minor",,,412974,289272,52.50121224,-1.81030050,,
+947804,10,"West Midlands",141,"Birmingham","U","Minor",,,409060,288706,52.49620215,-1.86797549,,
+947805,10,"West Midlands",141,"Birmingham","U","Minor",,,411053,294901,52.55185838,-1.83841221,,
+947806,10,"West Midlands",141,"Birmingham","U","Minor",,,407626,296158,52.56321703,-1.88892698,,
+947807,10,"West Midlands",141,"Birmingham","U","Minor",,,407935,282334,52.43893527,-1.88469417,,
+947808,10,"West Midlands",141,"Birmingham","U","Minor",,,415338,289097,52.49957822,-1.77548314,,
+947809,10,"West Midlands",141,"Birmingham","U","Minor",,,410310,285661,52.46880593,-1.84965620,,
+947810,10,"West Midlands",141,"Birmingham","U","Minor",,,409683,299321,52.59161996,-1.85849081,,
+947811,10,"West Midlands",141,"Birmingham","U","Minor",,,409722,283103,52.44582014,-1.85838478,,
+947812,10,"West Midlands",141,"Birmingham","U","Minor",,,410710,282926,52.44421082,-1.84385424,,
+947813,10,"West Midlands",141,"Birmingham","U","Minor",,,410328,283089,52.44568339,-1.84946933,,
+947814,10,"West Midlands",141,"Birmingham","U","Minor",,,411281,279948,52.41742728,-1.83555237,,
+947816,10,"West Midlands",141,"Birmingham","U","Minor",,,411954,298282,52.58223481,-1.82500462,,
+947817,10,"West Midlands",141,"Birmingham","U","Minor",,,408782,287021,52.48105855,-1.87211388,,
+947818,10,"West Midlands",141,"Birmingham","U","Minor",,,410085,279281,52.41145383,-1.85315714,,
+947819,10,"West Midlands",141,"Birmingham","U","Minor",,,407042,278587,52.40526163,-1.89790723,,
+947820,10,"West Midlands",141,"Birmingham","U","Minor",,,402935,281457,52.43110002,-1.95825340,,
+947822,10,"West Midlands",141,"Birmingham","U","Minor",,,404800,281768,52.43388299,-1.93081908,,
+947824,10,"West Midlands",141,"Birmingham","U","Minor",,,407120,286094,52.47274882,-1.89660512,,
+947826,10,"West Midlands",141,"Birmingham","U","Minor",,,399144,282526,52.44071693,-2.01401349,,
+947828,10,"West Midlands",141,"Birmingham","U","Minor",,,407833,283718,52.45137892,-1.88616299,,
+947829,10,"West Midlands",141,"Birmingham","U","Minor",,,413155,284543,52.45869473,-1.80782007,,
+947830,10,"West Midlands",141,"Birmingham","U","Minor",,,414801,284562,52.45882373,-1.78359499,,
+947831,10,"West Midlands",141,"Birmingham","U","Minor",,,414314,288827,52.49717854,-1.79057935,,
+947832,10,"West Midlands",141,"Birmingham","U","Minor",,,415424,288931,52.49808349,-1.77422396,,
+947833,10,"West Midlands",141,"Birmingham","U","Minor",,,409550,285974,52.47163336,-1.86083490,,
+947834,10,"West Midlands",141,"Birmingham","U","Minor",,,402418,284518,52.45862109,-1.96583626,,
+947835,10,"West Midlands",141,"Birmingham","U","Minor",,,409642,280055,52.41841995,-1.85964794,,
+947836,10,"West Midlands",141,"Birmingham","U","Minor",,,410788,290135,52.50901767,-1.84247581,,
+947837,10,"West Midlands",141,"Birmingham","U","Minor",,,406216,288334,52.49289738,-1.90987230,,
+947838,10,"West Midlands",141,"Birmingham","U","Minor",,,410181,293608,52.54025148,-1.85131308,,
+947839,10,"West Midlands",141,"Birmingham","U","Minor",,,411908,285242,52.46500702,-1.82614770,,
+947840,10,"West Midlands",141,"Birmingham","U","Minor",,,413804,291256,52.51902799,-1.79799068,,
+947841,10,"West Midlands",141,"Birmingham","U","Minor",,,410615,286990,52.48074775,-1.84512489,,
+947842,10,"West Midlands",141,"Birmingham","U","Minor",,,410902,292048,52.52621327,-1.84073341,,
+947843,10,"West Midlands",141,"Birmingham","U","Minor",,,410573,292695,52.53203627,-1.84556229,,
+947844,10,"West Midlands",141,"Birmingham","U","Minor",,,412514,291342,52.51983195,-1.81699890,,
+947845,10,"West Midlands",141,"Birmingham","U","Minor",,,407005,281949,52.43548669,-1.89838268,,
+947846,10,"West Midlands",141,"Birmingham","U","Minor",,,399210,281900,52.43508919,-2.01304067,,
+947847,10,"West Midlands",141,"Birmingham","U","Minor",,,409644,285404,52.46650745,-1.85946725,,
+947848,10,"West Midlands",141,"Birmingham","U","Minor",,,400090,278629,52.40568313,-2.00009522,,
+947849,10,"West Midlands",141,"Birmingham","U","Minor",,,411682,283188,52.44654658,-1.82954500,,
+947850,10,"West Midlands",141,"Birmingham","U","Minor",,,399672,281208,52.42886857,-2.00624403,,
+947851,10,"West Midlands",141,"Birmingham","U","Minor",,,406350,280005,52.41801793,-1.90805300,,
+947852,10,"West Midlands",141,"Birmingham","U","Minor",,,409559,294704,52.55011553,-1.86045258,,
+947853,10,"West Midlands",141,"Birmingham","U","Minor",,,406908,288753,52.49665593,-1.89967188,,
+947854,10,"West Midlands",141,"Birmingham","U","Minor",,,409383,282702,52.44222095,-1.86338341,,
+947855,10,"West Midlands",141,"Birmingham","U","Minor",,,412740,291958,52.52536453,-1.81364446,,
+947856,10,"West Midlands",141,"Birmingham","U","Minor",,,401438,277965,52.39971242,-1.98028312,,
+947857,10,"West Midlands",141,"Birmingham","U","Minor",,,414513,291842,52.52427784,-1.78751638,,
+947858,10,"West Midlands",141,"Birmingham","U","Minor",,,399580,277601,52.39644057,-2.00758938,,
+947859,10,"West Midlands",141,"Birmingham","U","Minor",,,401063,279542,52.41389063,-1.98579094,,
+947860,10,"West Midlands",141,"Birmingham","U","Minor",,,401740,284883,52.46190494,-1.97581249,,
+947861,10,"West Midlands",141,"Birmingham","U","Minor",,,403500,284036,52.45428213,-1.94991769,,
+947862,10,"West Midlands",141,"Birmingham","U","Minor",,,401885,283017,52.44512903,-1.97368830,,
+947864,10,"West Midlands",141,"Birmingham","U","Minor",,,402817,277661,52.39697443,-1.96001801,,
+947865,10,"West Midlands",141,"Birmingham","U","Minor",,,406507,278815,52.40731793,-1.90576701,,
+947866,10,"West Midlands",141,"Birmingham","U","Minor",,,403524,279290,52.41161532,-1.94961196,,
+947867,10,"West Midlands",141,"Birmingham","U","Minor",,,406637,279457,52.41308801,-1.90384367,,
+947868,10,"West Midlands",141,"Birmingham","U","Minor",,,408719,285177,52.46448203,-1.87308865,,
+947869,10,"West Midlands",141,"Birmingham","U","Minor",,,407990,278866,52.40775697,-1.88396591,,
+947870,10,"West Midlands",141,"Birmingham","U","Minor",,,409070,283176,52.44648738,-1.86797551,,
+947871,10,"West Midlands",141,"Birmingham","U","Minor",,,403075,283382,52.44840514,-1.95617749,,
+947872,10,"West Midlands",141,"Birmingham","U","Minor",,,402769,280059,52.41853292,-1.96070562,,
+947873,10,"West Midlands",141,"Birmingham","U","Minor",,,410086,291940,52.52525800,-1.85276453,,
+947874,10,"West Midlands",141,"Birmingham","U","Minor",,,404440,288002,52.48992986,-1.93603380,,
+947875,10,"West Midlands",141,"Birmingham","U","Minor",,,400122,284696,52.46022624,-1.99962634,,
+947876,10,"West Midlands",141,"Birmingham","U","Minor",,,412639,299441,52.59263879,-1.81485130,,
+947877,10,"West Midlands",141,"Birmingham","U","Minor",,,407023,283035,52.44524963,-1.89809572,,
+947878,10,"West Midlands",141,"Birmingham","U","Minor",,,403228,280394,52.42154202,-1.95395365,,
+947879,10,"West Midlands",141,"Birmingham","U","Minor",,,401705,282353,52.43916017,-1.97633970,,
+947880,10,"West Midlands",141,"Birmingham","U","Minor",,,409153,286537,52.47670137,-1.86666413,,
+947881,10,"West Midlands",141,"Birmingham","U","Minor",,,409273,292103,52.52673773,-1.86474320,,
+947882,10,"West Midlands",141,"Birmingham","U","Minor",,,412086,284582,52.45906982,-1.82355124,,
+947883,10,"West Midlands",141,"Birmingham","U","Minor",,,414532,285005,52.46281342,-1.78753482,,
+947884,10,"West Midlands",141,"Birmingham","U","Minor",,,410156,281756,52.43370287,-1.85203964,,
+947886,10,"West Midlands",141,"Birmingham","U","Minor",,,406938,285906,52.47106102,-1.89928827,,
+947887,10,"West Midlands",141,"Birmingham","U","Minor",,,415907,287199,52.48249924,-1.76719208,,
+947888,10,"West Midlands",141,"Birmingham","U","Minor",,,415012,288616,52.49526308,-1.78030719,,
+947889,10,"West Midlands",141,"Birmingham","U","Minor",,,404430,277142,52.39229804,-1.93631927,,
+947890,10,"West Midlands",141,"Birmingham","U","Minor",,,400908,284823,52.46136739,-1.98805807,,
+947892,10,"West Midlands",141,"Birmingham","U","Minor",,,405977,286173,52.47347261,-1.91343041,,
+947893,10,"West Midlands",141,"Birmingham","U","Minor",,,403476,286748,52.47866328,-1.95024346,,
+947894,10,"West Midlands",141,"Birmingham","U","Minor",,,407086,286388,52.47539232,-1.89709953,,
+947895,10,"West Midlands",141,"Birmingham","U","Minor",,,408939,285710,52.46927017,-1.86983652,,
+947896,10,"West Midlands",141,"Birmingham","U","Minor",,,407687,289247,52.50108667,-1.88818650,,
+947897,10,"West Midlands",141,"Birmingham","U","Minor",,,415022,291603,52.52211563,-1.78002509,,
+947898,10,"West Midlands",141,"Birmingham","U","Minor",,,410631,281993,52.43582465,-1.84504564,,
+947899,10,"West Midlands",141,"Birmingham","U","Minor",,,410929,299337,52.59174049,-1.84009745,,
+947900,10,"West Midlands",141,"Birmingham","U","Minor",,,410601,288140,52.49108638,-1.84529481,,
+947901,10,"West Midlands",141,"Birmingham","U","Minor",,,411002,291628,52.52243546,-1.83927326,,
+947902,10,"West Midlands",141,"Birmingham","U","Minor",,,410983,285793,52.46997965,-1.83974509,,
+947903,10,"West Midlands",141,"Birmingham","U","Minor",,,410491,294784,52.55081764,-1.84670476,,
+947904,10,"West Midlands",141,"Birmingham","U","Minor",,,400643,283818,52.45233271,-1.99195991,,
+947905,10,"West Midlands",141,"Birmingham","U","Minor",,,400526,278467,52.40422668,-1.99368653,,
+947906,10,"West Midlands",141,"Birmingham","U","Minor",,,405214,291168,52.51838554,-1.92458673,,
+947907,10,"West Midlands",141,"Birmingham","U","Minor",,,407942,286202,52.47370851,-1.88450143,,
+947908,10,"West Midlands",141,"Birmingham","U","Minor",,,414678,285683,52.46890468,-1.78535633,,
+947910,10,"West Midlands",141,"Birmingham","U","Minor",,,410761,287697,52.48710076,-1.84295255,,
+947911,10,"West Midlands",141,"Birmingham","U","Minor",,,406167,289190,52.50059338,-1.91057843,,
+947912,10,"West Midlands",141,"Birmingham","U","Minor",,,406437,291567,52.52195967,-1.90655620,,
+947913,10,"West Midlands",141,"Birmingham","U","Minor",,,401390,281527,52.43173519,-1.98097656,,
+947914,10,"West Midlands",141,"Birmingham","U","Minor",,,402418,277893,52.39906201,-1.96588037,,
+947915,10,"West Midlands",141,"Birmingham","U","Minor",,,408693,291722,52.52332204,-1.87330240,,
+947916,10,"West Midlands",141,"Birmingham","U","Minor",,,404214,290023,52.50810041,-1.93933722,,
+947917,10,"West Midlands",141,"Birmingham","U","Minor",,,406600,289485,52.50324042,-1.90419433,,
+947918,10,"West Midlands",141,"Birmingham","U","Minor",,,405688,286484,52.47627157,-1.91767975,,
+947919,10,"West Midlands",141,"Birmingham","U","Minor",,,412556,285725,52.46933474,-1.81659175,,
+947920,10,"West Midlands",141,"Birmingham","U","Minor",,,414460,287908,52.48891301,-1.78846877,,
+947921,10,"West Midlands",141,"Birmingham","U","Minor",,,409569,291560,52.52185107,-1.86039583,,
+947922,10,"West Midlands",141,"Birmingham","U","Minor",,,416380,288597,52.49505327,-1.76015831,,
+947923,10,"West Midlands",141,"Birmingham","U","Minor",,,409796,292161,52.52725005,-1.85703246,,
+947924,10,"West Midlands",141,"Birmingham","U","Minor",,,407937,281004,52.42697849,-1.88469554,,
+947925,10,"West Midlands",141,"Birmingham","U","Minor",,,405106,287471,52.48515041,-1.92623348,,
+947926,10,"West Midlands",141,"Birmingham","U","Minor",,,409983,284057,52.45439198,-1.85451682,,
+947927,10,"West Midlands",141,"Birmingham","U","Minor",,,411022,292450,52.52982486,-1.83895132,,
+947928,10,"West Midlands",141,"Birmingham","U","Minor",,,407500,295680,52.55892162,-1.89079652,,
+947929,10,"West Midlands",141,"Birmingham","U","Minor",,,400118,284775,52.46093645,-1.99968521,,
+947930,10,"West Midlands",141,"Birmingham","U","Minor",,,412597,284039,52.45417687,-1.81605095,,
+947931,10,"West Midlands",141,"Birmingham","U","Minor",,,410180,293485,52.53914574,-1.85133160,,
+947932,10,"West Midlands",141,"Birmingham","U","Minor",,,408345,288433,52.49375920,-1.87851367,,
+947933,10,"West Midlands",141,"Birmingham","U","Minor",,,412013,288208,52.49166876,-1.82449612,,
+947934,10,"West Midlands",141,"Birmingham","U","Minor",,,405177,286613,52.47743631,-1.92520103,,
+947935,10,"West Midlands",141,"Birmingham","U","Minor",,,411414,289259,52.50112988,-1.83328229,,
+947936,10,"West Midlands",141,"Birmingham","U","Minor",,,410207,293149,52.53612465,-1.85094383,,
+947938,10,"West Midlands",141,"Birmingham","U","Minor",,,401762,282837,52.44351120,-1.97549882,,
+947940,10,"West Midlands",141,"Birmingham","U","Minor",,,406440,280923,52.42626977,-1.90671256,,
+947941,10,"West Midlands",141,"Birmingham","U","Minor",,,413954,290894,52.51576987,-1.79579529,,
+947942,10,"West Midlands",141,"Birmingham","U","Minor",,,407850,296263,52.56415783,-1.88562005,,
+947943,10,"West Midlands",141,"Birmingham","U","Minor",,,403141,277109,52.39201012,-1.95526108,,
+947944,10,"West Midlands",141,"Birmingham","U","Minor",,,407146,291198,52.51863359,-1.89611475,,
+947945,10,"West Midlands",141,"Birmingham","U","Minor",,,414051,287254,52.48304419,-1.79451998,,
+947946,10,"West Midlands",141,"Birmingham","U","Minor",,,409030,283228,52.44695552,-1.86856265,,
+947947,10,"West Midlands",141,"Birmingham","U","Minor",,,405895,293565,52.53992772,-1.91450904,,
+947948,10,"West Midlands",141,"Birmingham","U","Minor",,,408828,288410,52.49354488,-1.87140042,,
+947950,10,"West Midlands",141,"Birmingham","U","Minor",,,402752,281987,52.43586567,-1.96094084,,
+947951,10,"West Midlands",141,"Birmingham","U","Minor",,,406604,287612,52.48640208,-1.90417187,,
+947952,10,"West Midlands",141,"Birmingham","U","Minor",,,413475,293995,52.54365945,-1.80272839,,
+947954,10,"West Midlands",141,"Birmingham","U","Minor",,,410474,288352,52.49299467,-1.84715861,,
+947955,10,"West Midlands",141,"Birmingham","U","Minor",,,413911,287906,52.48890917,-1.79655425,,
+947956,10,"West Midlands",141,"Birmingham","U","Minor",,,403570,278906,52.40816291,-1.94893952,,
+947957,10,"West Midlands",141,"Birmingham","U","Minor",,,412350,284177,52.45542307,-1.81968066,,
+947958,10,"West Midlands",141,"Birmingham","U","Minor",,,408748,281577,52.43211754,-1.87275400,,
+947959,10,"West Midlands",141,"Birmingham","U","Minor",,,413465,291820,52.52410667,-1.80296380,,
+947960,10,"West Midlands",141,"Birmingham","U","Minor",,,409252,282367,52.43921148,-1.86531970,,
+947962,10,"West Midlands",141,"Birmingham","U","Minor",,,413692,287928,52.48911244,-1.79977866,,
+947963,10,"West Midlands",141,"Birmingham","U","Minor",,,410694,287734,52.48743469,-1.84393807,,
+947964,10,"West Midlands",141,"Birmingham","U","Minor",,,414134,296791,52.56877909,-1.79289460,,
+947965,10,"West Midlands",141,"Birmingham","U","Minor",,,411417,283462,52.44901536,-1.83343473,,
+947966,10,"West Midlands",141,"Birmingham","U","Minor",,,413215,295212,52.55460674,-1.80651516,,
+947967,10,"West Midlands",141,"Birmingham","U","Minor",,,409650,279565,52.41401469,-1.85954416,,
+947969,10,"West Midlands",141,"Birmingham","U","Minor",,,402240,278335,52.40303641,-1.96849387,,
+947970,10,"West Midlands",141,"Birmingham","U","Minor",,,398987,278167,52.40152799,-2.01630642,,
+947972,10,"West Midlands",141,"Birmingham","U","Minor",,,405729,278743,52.40667925,-1.91720469,,
+947973,10,"West Midlands",141,"Birmingham","U","Minor",,,405353,293878,52.54274709,-1.92249550,,
+947974,10,"West Midlands",141,"Birmingham","U","Minor",,,402609,281721,52.43347500,-1.96304620,,
+947975,10,"West Midlands",141,"Birmingham","U","Minor",,,406867,286878,52.47980019,-1.90031383,,
+947976,10,"West Midlands",141,"Birmingham","U","Minor",,,407411,293458,52.53894745,-1.89215884,,
+947977,10,"West Midlands",141,"Birmingham","U","Minor",,,416185,286905,52.47984810,-1.76311276,,
+947978,10,"West Midlands",141,"Birmingham","U","Minor",,,411646,295438,52.55667390,-1.82964852,,
+951832,10,"West Midlands",141,"Birmingham","U","Minor",,,410238,300470,52.60193930,-1.85026304,,
+952159,10,"West Midlands",141,"Birmingham","U","Minor",,,406149,290853,52.51554405,-1.91081368,,
+964294,10,"West Midlands",141,"Birmingham","U","Minor",,,407100,286000,52.47190402,-1.89690151,,
+967105,10,"West Midlands",141,"Birmingham","U","Minor",,,400041,282147,52.43731056,-2.00081774,,
+967107,10,"West Midlands",141,"Birmingham","U","Minor",,,402441,283740,52.45162672,-1.96550322,,
+967112,10,"West Midlands",141,"Birmingham","U","Minor",,,407297,287365,52.48417279,-1.89397210,,
+967114,10,"West Midlands",141,"Birmingham","U","Minor",,,407418,292610,52.53132390,-1.89207458,,
+967119,10,"West Midlands",141,"Birmingham","U","Minor",,,413393,287844,52.48836463,-1.80418559,,
+967121,10,"West Midlands",141,"Birmingham","U","Minor",,,414318,285616,52.46831184,-1.79065862,,
+967122,10,"West Midlands",141,"Birmingham","U","Minor",,,415479,284547,52.45867023,-1.77361750,,
+969238,10,"West Midlands",141,"Birmingham","U","Minor",,,407586,287983,52.48972470,-1.88970265,,
+979120,10,"West Midlands",141,"Birmingham","B4144","Minor",,,407923,288939,52.49831437,-1.88471721,,
+979185,10,"West Midlands",141,"Birmingham","B4126","Minor",,,404742,287007,52.48098229,-1.93160004,,
+990030,10,"West Midlands",141,"Birmingham","B4124","Minor",,,405500,290000,52.50788234,-1.92039072,,
+990188,10,"West Midlands",141,"Birmingham","C","Minor",,,410680,293210,52.53666401,-1.84396833,,
+990189,10,"West Midlands",141,"Birmingham","U","Minor",,,412380,294850,52.55137169,-1.81884347,,
+990190,10,"West Midlands",141,"Birmingham","C","Minor",,,413940,293280,52.53722007,-1.79590154,,
+990191,10,"West Midlands",141,"Birmingham","U","Minor",,,409350,286140,52.47312908,-1.86377460,,
+990192,10,"West Midlands",141,"Birmingham","C","Minor",,,405010,279390,52.41250278,-1.92776446,,
+990193,10,"West Midlands",141,"Birmingham","U","Minor",,,411330,288900,52.49790424,-1.83453201,,
+990194,10,"West Midlands",141,"Birmingham","C","Minor",,,405240,288610,52.49538877,-1.92424271,,
+990195,10,"West Midlands",141,"Birmingham","U","Minor",,,409380,282860,52.44364142,-1.86342320,,
+990412,10,"West Midlands",141,"Birmingham","B4151","Minor",,,412000,298900,52.58778958,-1.82430355,,
+990413,10,"West Midlands",141,"Birmingham","C","Minor",,,413000,295840,52.56025765,-1.80966233,,
+990414,10,"West Midlands",141,"Birmingham","B4128","Minor",,,413000,286680,52.47790978,-1.81001888,,
+990415,10,"West Midlands",141,"Birmingham","C","Minor",,,410000,288000,52.48983900,-1.85415062,,
+990416,10,"West Midlands",141,"Birmingham","B4129","Minor",,,403940,285800,52.47013762,-1.94342270,,
+990520,10,"West Midlands",141,"Birmingham","B4121","Minor",,,401560,283580,52.45019140,-1.97846740,,
+990564,10,"West Midlands",141,"Birmingham","U","Minor",,,406250,282250,52.43820174,-1.90948271,,
+996793,10,"West Midlands",141,"Birmingham","U","Minor",,,399583,277092,52.39186447,-2.00754415,,
+996801,10,"West Midlands",141,"Birmingham","U","Minor",,,402016,280503,52.42252767,-1.97177503,,
+996832,10,"West Midlands",141,"Birmingham","U","Minor",,,408006,294162,52.54526794,-1.88336916,,
+996847,10,"West Midlands",141,"Birmingham","U","Minor",,,410069,280665,52.42389634,-1.85335151,,
