@@ -14,7 +14,9 @@ This folder contains raw traffic counts and count point information downloaded f
 
 Download date: 5 October 2026
 
-Years covered: Both raw-count datasets contain records from 2000 to 2025 inclusive. Coverage varies by count point. The final analysis period will be selected after checking coverage at the chosen road networks.
+Study period: 2020–2025.
+
+The original DfT files include historical records from 2000–2025. The notebook filters these files to retain records for 2020–2025. Coverage is checked separately for each selected count point because some locations do not have observations in every study year.
 
 ### Purpose
 Raw traffic counts will inform traffic demand and vehicle composition. Count point information will help locate suitable roads and match traffic observations to the selected road networks.
@@ -24,11 +26,22 @@ Source: Department for Transport, Road Traffic Statistics.
 Contains public sector information licensed under the Open Government Licence v3.0.
 Licence: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 
-## OpenStreetMap — planned input
+## OpenStreetMap road geometry
 
-Road geometry will be obtained from OpenStreetMap after selecting suitable study networks.
+Candidate road-network extracts have been downloaded:
 
-The extract has not yet been added. Its geographical coverage, download date, source and licence will be recorded when it is obtained.
+- `birmingham_candidate.osm`: Birmingham candidate area covering Bristol Road, Priory Road and Pershore Road.
+- `manchester_candidate.osm`: Manchester candidate area covering Princess Road, Mauldeth Road West and Barlow Moor Road.
+
+Source: https://www.openstreetmap.org/
+Download date: 5 October 2026.
+Attribution: © OpenStreetMap contributors.
+Licence: Open Database Licence (ODbL).
+Licence details: https://www.openstreetmap.org/copyright
+
+These extracts will provide road geometry for constructing the SUMO networks. Final junction selection and network validation remain pending.
+
+The extracts represent the map available at download, rather than verified historical road layouts for 2020–2025. Any relevant differences will be documented.
 
 ## Secondary data and simulation outputs
 
